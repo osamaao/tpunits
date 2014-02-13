@@ -1,3 +1,7 @@
+//
+// Mouse device manager
+//
+
 Unit Mouse;
 
 Interface
