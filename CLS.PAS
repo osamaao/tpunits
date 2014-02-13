@@ -1,4 +1,6 @@
+//
 // Clear screen to white in graphic mode 320
+//
 
 Uses
     Crt,SGraph;
